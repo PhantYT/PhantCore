@@ -1,0 +1,8 @@
+lore:
+  separator: "&7◆━━━━━━━━━━━━━━━━◆"
+  unbreakable: "&7☵ ᴜɴʙʀᴇᴀᴋᴀʙʟᴇ ☵"
+
+# Доступные зачарования
+enchantments:
+  PROTECTION: "&7🛡 ᴘʀᴏᴛᴇᴄᴛɪᴏɴ {0} 🛡"
+  SHARPNESS: "&7⚔ ꜱʜᴀʀᴘɴᴇꜱꜱ {0} ⚔"

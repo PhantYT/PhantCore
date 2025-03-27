@@ -1,0 +1,14 @@
+global_cooldown: 3
+messages:
+  radius_prompt: "&eВведите радиус в чат:"
+  select_block_prompt: "&eКликните по блоку для выбора центра:"
+  select_blocks_message: "&7Выберите типы блоков (введите номер для переключения, 0 для подтверждения):"
+  invalid_number_message: "&cНеверный номер!"
+  number_required_message: "&cВведите число!"
+  creation_success_message: "&aУспешно создано! Настройте команды, пермишен, сообщение и звуки в blockcommands/commands.yml"
+  world_not_found_message: "&cОшибка: мир 'box' не найден!"
+  teleport_error_message: "&cОшибка в команде телепортации: "
+  cooldown_message: "&cПодождите {time} сек. перед повторным использованием портала!"
+  no_permission_message: "&cВы не можете войти в этот портал!"
+  permission_allowed: "&aВход разрешен"
+  permission_denied: "&cВход запрещен"

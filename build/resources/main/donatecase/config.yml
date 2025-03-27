@@ -1,0 +1,14 @@
+animation:
+  height: 1.0
+  speed: 0.2
+  radius: 1.5
+  duration: 100
+  slowdown-start: 50
+  rotation-speed: 5.0
+  rotation-duration: 100
+menu-title: '&5&l✨ Донат Кейсы ✨'
+case-slots:
+  vip_case: 22
+player-cases: {}
+case-locations:
+  box_27_99_0: vip_case

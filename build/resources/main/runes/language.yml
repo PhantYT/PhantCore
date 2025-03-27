@@ -1,0 +1,33 @@
+messages:
+  rune_activated:
+    - "§aВы активировали руну: %rune_name%"
+  item_not_found:
+    - "§cЭтот предмет не найден в конфигурации!"
+  player_tried_unknown_item:
+    - "Игрок %player_name% попытался получить несуществующий предмет: %item_name%"
+  max-runes-limit:
+    - "§cБольше рун иметь нельзя."
+  stack-runes:
+    - "§cНельзя стаковать руны"
+  pickup-runes:
+    - "§cВы не можете подобрать больше рун"
+  item-name:
+    - "§cУкажите название предмета"
+  config-reload:
+    - "§aКонфигурация перезагружена"
+  dont-find:
+    - "§cПредмет не найден"
+  permission-needed:
+    - "§cУ вас недостаточно прав"
+  right-use:
+    - "§cПравильное использование: /runes give <руна> <игрок> или /runes reload"
+  command-list-header:
+    - "§8§l[§6Runes§8§l] §7Доступные команды:"
+  command-list-give:
+    - " §8- §e/runes give <руна> <игрок> §7- Выдать руну игроку"
+  command-list-reload:
+    - " §8- §e/runes reload §7- Перезагрузить конфигурацию модуля"
+  player-not-found:
+    - "§cИгрок с именем %player% не найден."
+  give-success:
+    - "§aВы выдали руну %rune% игроку %player%!"

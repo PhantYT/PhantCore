@@ -1,0 +1,7 @@
+resourcepacks:
+  - "https://example.com/resourcepack1.zip"  # По ссылке
+  - "test.zip"                              # Локальный файл в resourcepack/resourcepacks/
+
+# Настройки
+force-resource-pack: true  # Принудительное применение
+kick-on-decline: true      # Кикать ли при отклонении или ошибке загрузки

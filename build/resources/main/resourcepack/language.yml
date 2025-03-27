@@ -1,0 +1,6 @@
+# Сообщения
+messages:
+  prompt: "Please accept the resource pack to play on this server!"
+  declined: "You must accept the resource pack to play here!"
+  failed: "Failed to download the resource pack. Please try again or contact an admin."
+  error: "An error occurred while applying the resource pack. Contact an admin."

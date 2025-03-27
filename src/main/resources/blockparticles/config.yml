@@ -1,0 +1,21 @@
+particle-effects:
+  world:
+    100_64_200:
+      x: 100.5
+      y: 65.0
+      z: 200.5
+      particle: FLAME
+      interval: 10
+    101_65_201:
+      x: 101.5
+      y: 66.0
+      z: 201.5
+      particle: HEART
+      interval: 20
+  world_nether:
+    50_70_50:
+      x: 50.5
+      y: 71.0
+      z: 50.5
+      particle: SMOKE
+      interval: 15

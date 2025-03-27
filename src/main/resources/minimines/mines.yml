@@ -1,0 +1,23 @@
+# Пример структуры хранения шахт
+example_mine:
+  point1:
+    world: "world"
+    x: 100
+    y: 64
+    z: 100
+  point2:
+    world: "world"
+    x: 110
+    y: 70
+    z: 110
+  blocks:
+    - STONE
+    - COAL_ORE
+  cooldown: 300
+  teleport:
+    world: "world"
+    x: 105
+    y: 65
+    z: 105
+  notify: true
+  notifyBefore: 30

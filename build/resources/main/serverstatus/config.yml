@@ -1,0 +1,11 @@
+# Интервал обновления в тиках (20 тиков = 1 секунда)
+update-interval: 20
+
+# Настройки BossBar
+bossbar:
+  format: "§x§F§F§A§5§0§0§lTPS: §f{TPS} §7| §x§F§F§D§7§0§0§lMSPT: §f{MSPT}ms"
+  style: SEGMENTED_10
+
+# Настройки ActionBar
+actionbar:
+  format: "§x§F§F§A§5§0§0§lTPS: §f{TPS} §7| §x§F§F§D§7§0§0§lMSPT: §f{MSPT}ms"

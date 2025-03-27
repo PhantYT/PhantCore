@@ -1,0 +1,33 @@
+cases:
+  vip_case:
+    displayname: '&5&lVIP Кейс'
+    lore:
+      - '&eУ вас: %amount% кейсов'
+      - '&7Нажмите, чтобы открыть!'
+      - '&aУдачи!'
+    hologram:
+      - §5§lVIP Кейс
+      - §7Открой меня!
+    hologram-offset:
+      x: 0.0
+      y: 1.7
+      z: 0.0
+    default-item-texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWQ5Y2M1OGFkMjVhMWFiMTZkMzZiYjVkNmQ0OTNjOGY1ODk4YzJiZjMwMmI2NGUzMjU5MjFjNDFjMzU4NjcifX19"
+    animation-location:
+      world: "box"
+      x: 40.5
+      y: 98.0
+      z: 0.5
+      yaw: 90.0
+    pitch: 0.0
+    rewards:
+      reward1:
+        name: "&eНаграда 1"
+        chance: 50
+        command: "give %player% diamond 1"
+        item-texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOThkYWExZTNlZDk0ZmYzZTMzZTFkNGM2ZTQzZjAyNGM0N2Q3OGE1N2JhNGQzOGU3NWU3YzkyNjQxMDYifX19"
+      reward2:
+        name: "&eНаграда 2"
+        chance: 50
+        command: "give %player% emerald 1"
+        item-texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOThkYWExZTNlZDk0ZmYzZTMzZTFkNGM2ZTQzZjAyNGM0N2Q3OGE1N2JhNGQzOGU3NWU3YzkyNjQxMDYifX19"

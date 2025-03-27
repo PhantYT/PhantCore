@@ -1,0 +1,12 @@
+# Разрешить переключение предметов из руки (ПКМ по предмету в руке)
+swap-from-hand: true
+
+# Разрешить переключение предметов из инвентаря (ПКМ по предмету в инвентаре)
+swap-from-inventory: true
+
+# Какие элементы брони можно переключать
+swap-helmets: true
+swap-chestplates: true
+swap-leggings: true
+swap-boots: true
+swap-elytra: true

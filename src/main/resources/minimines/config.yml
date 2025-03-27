@@ -1,0 +1,3 @@
+# Настройки модуля MiniMines
+particle-interval: 10 # Интервал частиц в тиках
+timer-interval: 20   # Интервал таймера в тиках

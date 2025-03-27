@@ -1,0 +1,43 @@
+name: PhantCore
+version: 1.0
+main: com.phantyt.PhantCore
+api-version: 1.16
+author: Phant
+depend: [DecentHolograms]
+
+commands:
+  world:
+    description: Управление мирами
+    usage: Модуль отключен!
+  minimines:
+    description: Управление шахтами
+    usage: Модуль отключен!
+    aliases:
+      - mm
+  phantcore:
+    description: Управление плагином PhantCore
+    usage: Модуль отключен!
+  itemmanager:
+    description: Управление предметами
+    usage: Модуль отключен!
+  serverstatus:
+    description: Управление статусом сервера
+    usage: Модуль отключен!
+  runes:
+    description: Управление уникальными рунами
+    usage: Модуль отключен!
+  auth:
+    description: Управление авторизацией админов
+    usage: Модуль отключен!
+  physic:
+    description: Управление физикой сервера
+    usage: Модуль отключен!
+  donatecase:
+    description: Управление донат кейсами сервера
+    usage: Модуль отключен!
+  blockparticles:
+    description: Управление партиклами блоков
+    usage: Модуль отключен!
+  blockcommands:
+    description: Управление коммандами блоков
+    usage: Модуль отключен!

@@ -1,0 +1,12 @@
+modules:
+  worldmanager: true
+  shulkeropen: true
+  hotswap: true
+  itemmanager: true
+  serverstatus: true
+  runes: true
+  auth: true
+  physics: true
+  donatecase: true
+  blockparticles: true
+  blockcommands: true

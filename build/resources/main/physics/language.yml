@@ -1,0 +1,5 @@
+messages:
+  only-players: "&cЭта команда доступна только игрокам!"
+  no-permission: "&cУ вас нет прав для управления физикой!"
+  command-list-header: "&8&l[&6Physics&8&l] &7Используйте /physic для управления физикой"
+  toggle: "&a%feature% теперь %status%!"
